@@ -1,0 +1,340 @@
+body{
+	background: #E5E5E5;
+}
+.video-text{
+	position: absolute;
+width: 570px;
+height: 27px;
+left: 100px;
+top: 3198px;
+}
+p{
+	font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+color: #1F1F1F;
+}
+span{
+	color: #64BC62;
+}
+.video{
+	position: absolute;
+width: 1450px;
+height: 472px;
+left: 100px;
+top: 3264px;
+
+background: rgba(100, 188, 98, 0.4);
+}
+.length{
+	position: absolute;
+width: 1212px;
+height: 31px;
+left: 219px;
+top: 3705px;
+
+background: #1F1F1F;
+}
+.length2{
+	position: absolute;
+width: 20px;
+height: 31px;
+left: 219px;
+top: 3705px;
+
+background: #FFFFFF;
+}
+.dot{
+	position: absolute;
+width: 91px;
+height: 91px;
+left: 780px;
+top: 3450px;
+border-radius: 91px;
+background: #FFFFFF;
+}
+.Testimonials{
+	position: absolute;
+width: 195px;
+height: 37px;
+left: 100px;
+top: 3896px;
+}
+.Testimonials p{
+	font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #64BC62;
+}
+.What-our-people-say{
+	position: absolute;
+width: 231px;
+height: 27px;
+left: 100px;
+top: 3941px;
+}
+.What-our-people-say p{
+	font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+
+color: #1F1F1F;
+}
+.people{
+	position: absolute;
+width: 1450px;
+height: 494px;
+left: 100px;
+top: 4119px;
+background: #64BC62;
+}
+.quote1 img{
+	position: absolute;
+left: 32%;
+right: 57.14%;
+top: -7.14%;
+bottom: 7.14%;
+}
+.quote2 img{
+	position: absolute;
+left: 36.14%;
+right: 0%;
+top: -7.14%;
+bottom: 7.14%;
+}
+
+
+.person-picture img{
+	border-radius: 220px;
+	 border: 5px solid white;
+	 position: absolute;
+width: 420px;
+height: 420px;
+left: 135px;
+top: 4156px;
+}
+.testimony-text{
+	position: absolute;
+width: 696px;
+height: 180px;
+left: 638px;
+top: 4219px;
+}
+.testimony-text p{
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 45px;
+/* or 150% */
+
+
+color: #FFFFFF;
+}
+.name{
+	position: absolute;
+width: 152px;
+height: 37px;
+left: 638px;
+top: 4447px;
+}
+.name p{
+	font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #1F1F1F;
+}
+.institution{
+position: absolute;
+width: 189px;
+height: 24px;
+left: 638px;
+top: 4490px;
+}
+.institution p{
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;	
+}
+.arrow-left{
+	position: absolute;
+width: 23px;
+height: 0px;
+left: 816px;
+top: 4644px;
+}
+.arrow-right{
+	position: absolute;
+width: 29.71px;
+height: 0px;
+left: 855.29px;
+top: 4640px;
+}
+.footer{
+
+position: absolute;
+width: 1650px;
+height: 730px;
+left: 0px;
+top: 4768px;
+
+background: #3A3A3A;
+}
+.Ecx{
+	position: absolute;
+width: 163px;
+height: 40px;
+left: 100px;
+top: 4862px;
+}
+.Ecx p{
+	font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 43px;
+
+color: #FFFFFF;
+}
+
+.email-text p{
+position: absolute;
+width: 253px;
+height: 22px;
+left: 154px;
+top: 4951px;	
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.call-text p{
+position: absolute;
+width: 230px;
+height: 23px;
+left: 154px;
+top: 5009px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF
+}
+.location-text p{
+position: absolute;
+width: 290px;
+height: 23px;
+left: 154px;
+top: 5066px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+.links ul{
+position: absolute;
+width: 150px;
+height: 37px;
+left: 537px;
+top: 4963px;
+list-style: none;
+}
+ul h5{
+	font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #64BC62;
+}
+li p{
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+.supports ul{
+	position: absolute;
+width: 141px;
+height: 37px;
+left: 975px;
+top: 4963px;
+list-style: none;
+}
+.socials ul{
+position: absolute;
+width: 107px;
+height: 37px;
+left: 1428px;
+top: 4963px;
+list-style: none;
+}
+.ellipsis img{
+	position: absolute;
+width: 150px;
+height: 150px;
+left: 1400px;
+top: 4675px;
+}
+.left-arrow img{
+	position: absolute;
+width: 50px;
+height: 42.86px;
+left: 1450px;
+top: 4738px;
+
+}
+footer{
+	position: absolute;
+width: 540px;
+height: 29px;
+left: 555px;
+top: 5434px;
+
+}
+footer p{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
